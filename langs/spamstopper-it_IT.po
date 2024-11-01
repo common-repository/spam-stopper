@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Mike Jolley
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Spam Stopper in italiano\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/spam-stopper\n"
+"POT-Creation-Date: 2009-09-09 08:58+0000\n"
+"PO-Revision-Date: 2009-09-09 11:29+0100\n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+
+#: spam-stopper.php:23
+msgid "Spam Stopper"
+msgstr "Spam Stopper"
+
+#: spam-stopper.php:35
+msgid "Changes saved"
+msgstr "Le modifiche sono state salvate"
+
+#: spam-stopper.php:44
+msgid "Spam-Stopper"
+msgstr "Spam-Stopper"
+
+#: spam-stopper.php:49
+msgid "Anti-spam Question"
+msgstr "Domanda anti-spam"
+
+#: spam-stopper.php:50
+msgid "Question for the antispam field. Don't make this too hard!"
+msgstr "Domanda per il campo antispam. Non farla troppo difficile!"
+
+#: spam-stopper.php:53
+msgid "Anti-spam Answer"
+msgstr "Risposta anti-spam"
+
+#: spam-stopper.php:54
+msgid "Answer for the antispam field."
+msgstr "Risposta per il campo antispam."
+
+#: spam-stopper.php:57
+msgid "Automatically show field in comment form?"
+msgstr "Desideri mostrare in automatico il campo nel modulo dei commenti?"
+
+#: spam-stopper.php:59
+msgid "Yes"
+msgstr "Sì"
+
+#: spam-stopper.php:60
+msgid "No"
+msgstr "No"
+
+#: spam-stopper.php:61
+msgid "Turn this option on to insert the antispam field into your comment form. If you have inserted the field manually you should disable this option."
+msgstr "Attiva questa opzione per inserire il campo antispam nel tuo modulo dei commenti. Qualora avessi inserito manualmente il campo, dovrai disattivare questa opzione."
+
+#: spam-stopper.php:64
+msgid "Field Format"
+msgstr "Formato del campo"
+
+#: spam-stopper.php:66
+msgid "Label on left of input"
+msgstr "posiziona alla sinistra"
+
+#: spam-stopper.php:67
+msgid "Label on right of input"
+msgstr "posiziona alla destra"
+
+#: spam-stopper.php:68
+msgid "This option determines how the field is outputted."
+msgstr "Questa opzione definisce come verrà visualizzato il campo."
+
+#: spam-stopper.php:71
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: spam-stopper.php:119
+msgid "Please input your name"
+msgstr "Inserisci il tuo nome"
+
+#: spam-stopper.php:125
+msgid "Please input a valid email"
+msgstr "Inserisci la tua email"
+
+#: spam-stopper.php:129
+msgid "Please answer the anti-spam question"
+msgstr "Rispondi alla verifica anti-spam"
+
+#: spam-stopper.php:133
+msgid "Please input a comment"
+msgstr "Inserisci un commento"
+
+#: spam-stopper.php:138
+msgid "Incorrect anti-spam answer. Please re-answer the question! The correct answer is "
+msgstr "Risposta antispam errata. Rispondi nuovamente alla domanda! La risposta corretta é"
+
+#: spam-stopper.php:170
+#: spam-stopper.php:177
+msgid "required"
+msgstr "richiesta"
+
+#: spam-stopper.php:170
+#: spam-stopper.php:178
+msgid "This confirms you are a human user!"
+msgstr "Questo conferma che sei un utente umano!"
+
+#: spam-stopper.php:170
+#: spam-stopper.php:178
+msgid "Why ask?"
+msgstr "Perché?"
+
+#: spam-stopper.php:212
+msgid "Leave this anti-spam trap empty"
+msgstr "Lascia vuota questa trappola anti-spam"
+
+#: spam-stopper.php:306
+msgid "Error! There was a form ID mis-match indicative of remote posting."
+msgstr "Errore! Si é verificato un problema di corrispondenza (ID modulo)"
+
+#: spam-stopper.php:319
+msgid "Error! A hidden empty input had data. If you are human, try again."
+msgstr "Errore! Un campo nascosto contiene dei dati. Sei umano? Riprova!"
+
+#: spam-stopper.php:331
+msgid "Error: please answer the anti-spam question."
+msgstr "Errore: rispondi alla domanda anti-spam."
+
+#: spam-stopper.php:343
+msgid "Invalid anti-spam answer. Press your browsers back button and try again. The correct answer is "
+msgstr "Risposta anti-spam non valida. Premi il pulsante indietro del browser e riprova. La risposta corretta é"
+
+#. Plugin Name of an extension
+msgid "spam-stopper"
+msgstr "spam-stopper"
+
+#. Plugin URI of an extension
+msgid "http://wordpress.org/extend/plugins/spam-stopper/"
+msgstr "http://wordpress.org/extend/plugins/spam-stopper/"
+
+#. Description of an extension
+msgid "Protect your blog from comments spam with a simple validation question. To config the spam question or disable adding the form field automatically, go to <code>Tools &rsaquo; Spam Stopper</code>."
+msgstr "Proteggi il tuo blog dai commenti spam con una semplice domanda di verifica. Per potere configurare la domanda oppure disabilitare l'inserimento automatico del campo, vai sotto <code>Strumenti &rsaquo; Spam Stopper</code>."
+
+#. Author of an extension
+msgid "Mike Jolley"
+msgstr "Mike Jolley"
+
+#. Author URI of an extension
+msgid "http://blue-anvil.com"
+msgstr "http://blue-anvil.com"
+

@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spam-stopper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-12 19:11+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mostafa <mostafa.s1990@gmail.com>\n"
+"Language-Team:  <mostafa.s1990@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:23
+msgid "Spam Stopper"
+msgstr "جلوگيري از اسپمرها"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:35
+msgid "Changes saved"
+msgstr "تنظيمات ذخيره شد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:44
+msgid "Spam-Stopper"
+msgstr "ايست اسپم ها"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:49
+msgid "Anti-spam Question"
+msgstr "سوال آنتي اسپم"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:50
+msgid "Question for the antispam field. Don't make this too hard!"
+msgstr "فيلد سوال براي مبارزه با اسپم. لطفا زياد سخت نباشد!"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:53
+msgid "Anti-spam Answer"
+msgstr "جواب آنتي اسپم"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:54
+msgid "Answer for the antispam field."
+msgstr "فيلد جواب براي پاسخ."
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:57
+msgid "Automatically show field in comment form?"
+msgstr "به طور خودكار فيلد در فرم ديدگاه نمايش داده شود؟"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:59
+msgid "Yes"
+msgstr "بله"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:60
+msgid "No"
+msgstr "خير"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:61
+msgid "Turn this option on to insert the antispam field into your comment form. If you have inserted the field manually you should disable this option."
+msgstr "فعال كردن اين گزينه آنتي اسپم را در نظرات فعال مي كند."
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:64
+msgid "Field Format"
+msgstr "نوع فيلد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:66
+msgid "Label on left of input"
+msgstr "برچسب در طرف چپ فيلد باشد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:67
+msgid "Label on right of input"
+msgstr "برچسب در طرف راست فيلد باشد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:68
+msgid "This option determines how the field is outputted."
+msgstr "اين گزينه چگونگي نمايش فيلد خروجي را نمايش مي دهد."
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:71
+msgid "Save Changes"
+msgstr "ذخيره تنظيمات"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:119
+msgid "Please input your name"
+msgstr "لطفا نام خود را وارد كنيد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:125
+msgid "Please input a valid email"
+msgstr "لطفا ايميل خود را وارد كنيد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:129
+msgid "Please answer the anti-spam question"
+msgstr "لطفا سوال را پاسخ دهيد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:133
+msgid "Please input a comment"
+msgstr "لطفا نظر را وارد كنيد"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:138
+msgid "Incorrect anti-spam answer. Please re-answer the question! The correct answer is "
+msgstr "پاسخ آنتي اسپم نادرست است. لطفا دوباره  پاسخ دهيد! جواب سوال:"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:170
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:177
+msgid "required"
+msgstr "مهم"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:170
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:178
+msgid "This confirms you are a human user!"
+msgstr "اين كار براي جلوگيري از اسپم است!"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:170
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:178
+msgid "Why ask?"
+msgstr "پاسخ دهيد؟"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:212
+msgid "Leave this anti-spam trap empty"
+msgstr "آنتي اسپم در دام است"
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:306
+msgid "Error! There was a form ID mis-match indicative of remote posting."
+msgstr "خطا! شناسه در فرم مطابقت ندارد."
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:319
+msgid "Error! A hidden empty input had data. If you are human, try again."
+msgstr "خطا! ورودي پنهان خالي است. اگر شما يك انسان هستيد پس مي توانيد, دوباره سعي كنيد."
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:331
+msgid "Error: please answer the anti-spam question."
+msgstr "خطا: لطفا جواب آنتي اسپم را پاسخ دهيد."
+
+#: F:\Program
+#: Files\AppServ\www\wordpress\wp-content\plugins\spam-stopper/spam-stopper.php:343
+msgid "Invalid anti-spam answer. Press your browsers back button and try again. The correct answer is "
+msgstr "پاسخ هرزنامه اشتباه است. دكمه بازگشت مرورگر خود را بزنيد و دوباره سعي كنيد"
+
